@@ -187,7 +187,7 @@
 
     <!-- Button Indoor / Outdoor -->
     <div class="buttons-container">
-      <a href="indoor.html" class="btn btn-indoor">Indoor Café</a>
+      <a href="https://ibramullah.github.io/" class="btn btn-indoor">Indoor Café</a>
       <a href="outdoor.html" class="btn btn-outdoor">Outdoor Café</a>
     </div>
 
